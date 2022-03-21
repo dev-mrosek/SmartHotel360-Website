@@ -1,1 +1,2 @@
 Die Datei wurde nachträglich noch im GitHub hinzugefügt, um die Aktualisierungen ins Repo zu testen.
+Zeile 2 wurde eingfügt nach Konfiguration github-to-devops!
