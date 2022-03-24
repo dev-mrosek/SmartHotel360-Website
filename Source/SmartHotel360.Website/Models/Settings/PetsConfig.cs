@@ -11,6 +11,7 @@ namespace SmartHotel360.PublicWeb.Models.Settings
         public string Api { get; set; }
         public string CosmosKey { get; set; }
         public string BlobName { get; set; }
+        public string NmkTestBlobKey { get; set; }
         public string BlobKey { get; set; }
     }
 }
